@@ -51,7 +51,11 @@ Academic_Performance_Insights/
 
 ## 📌 Screenshots
 
-_You can optionally add visual outputs here inside the `/images` folder and embed them in the README using markdown._
+### 🎯 Pass vs Fail Pie Chart
+![Pass vs Fail Pie Chart](images/pie_chart_pass_fail.png)
+
+### 📊 Total Marks Bar Chart
+![Total Marks Bar Chart](images/bar_chart_total_marks.png)
 
 ---
 
